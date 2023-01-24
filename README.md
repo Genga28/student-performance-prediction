@@ -9,15 +9,16 @@ As students of the IT department who studied in the last month a little about ma
 
 ## Objectives 
 
-•	Predict whether or not a student will pass the final exam based on certain information given
-•	Compare the three learning algorithms
-•	Find out what most affects student achievement
-•	Find the best algorithm with high accuracy
+    •	Predict whether or not a student will pass the final exam based on certain information given
+    •	Compare the three learning algorithms
+    •	Find out what most affects student achievement
+    •	Find the best algorithm with high accuracy
 
 We will be using three learning algorithms:
-•	Logistic regression
-•	Supported vector machine
-•	KNN
+
+    •	Logistic regression
+    •	Supported vector machine
+    •	KNN
 
 
 
