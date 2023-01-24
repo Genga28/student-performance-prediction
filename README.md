@@ -36,6 +36,7 @@ As already mentioned, with the help of the old students records, we can came up 
 ## Dataset:
 
 Dataset name: Student.csv 
+
 Source: Kaggle
 
 ## Model
@@ -43,4 +44,5 @@ Source: Kaggle
 •	The models are hyper tuned to increase their accuracy.
 
 •	Selected SVM for model building as it  provides greater accuracy compared to all other models
+
 •	In SVM the accuracy is identified using three different kernels such as linear, polynomial and gaussian kernel among the three the linear kernel of SVM provides greater accuracy.
